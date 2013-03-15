@@ -1,0 +1,26 @@
+safe:        false
+auto:        true
+server:      false
+server_port: 4000
+baseurl:     /
+url:         http://colbyaley.com
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+future:      true
+markdown:    rdiscount
+paginate: 10 //the number of post per page
+permalink: /:title.html
+
+environments:
+  stage:
+    url: http://colbyaley.com
+    remote:
+      connection: colby@organichackers.com
+      path: /home/colby/colbyaley.com
+      port: 22
+  production:
+    url: http://colbyaley.com
+    remote:
+      connection: colby@organichackers.com
+      path: /home/colby/colbyaley.com

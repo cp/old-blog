@@ -1,0 +1,84 @@
+/* Yo yo, what's up ma homedog */
+
+/* Fonts etc. */
+@import url(http://fonts.googleapis.com/css?family=Bitter:400,700,400italic);
+
+/* Basics */
+body {
+	font-family: 'bitter', helvetica;
+	font-size: 13pt;
+	max-width: 700px;
+	padding: 10px;
+	margin: 0 auto;
+	line-height:1.5;
+	color: #505050;
+  -webkit-font-smoothing: subpixel-antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1 {font-size: 18pt;}
+h2 {font-size: 16pt;}
+h3 {font-size: 14pt;}
+h4 {font-size: 12pt;}
+
+blockquote {
+	border-left:5px solid #7d7d7d;
+	margin:15px 20px 0 5px;
+	padding-left:20px;
+	opacity: .95;
+}
+
+ol { margin-left:1.5em; padding-left:0px; }
+
+ol li { 
+  list-style:decimal; 
+  background-image:none; 
+  padding-left:0em; 
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+
+a { color: #114b84; text-decoration: none; }
+
+a:hover { color: #7d7d7d; }
+
+.thingy { /* This is the '...' as seen after the posts on the homepage */
+	text-align: center;
+	font-size: 1.75em;
+	color: #d7d7d7;
+	margin-top: .50em;
+}
+
+p.date { margin-top: -23px; font-size: 16px; font-style: italic; }
+
+/* Header */
+#header { text-align: center; }
+#header h2 { font-size: 23px; }
+
+#header img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	-webkit-border-radius: 190px;
+	-moz-border-radius: 190px;
+	border-radius: 190px;
+	width: 80px;
+	height: 80px;
+}
+
+#bar-top { background-color: #7d7d7d; height: 5px; margin-bottom: 40px; }
+
+/* Footer */
+#footer { text-align: center; }
+#bar-bottom { background-color: #7d7d7d; height: 5px; margin-top: 40px; }
+
+/* Loop */
+#archive-link { text-align: center; }
+
+/* Individual Pages */
+h2.page-title { font-size: 23pt; }
+p.follow { font-style: italic; }
+
+/* Archives */
+#extra { font-style: italic; }

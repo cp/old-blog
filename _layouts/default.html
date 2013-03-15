@@ -1,0 +1,22 @@
+{% include header.html %}
+
+  <section>
+    {% for post in site.posts limit: 5 %}
+      <article>
+          <h1><a href="{{ post.url }}" id="posttitle" rel="bookmark">{{ post.title }}</a></h1>
+          <p class="date">{{ post.date | date_to_long_string }}</p>
+          <div class="post">
+            {{ post.content }}
+          </div>
+      </article>
+      <div class="thingy">...</div>
+    {% endfor %}
+  </section>
+
+  <br />
+  <div id="archive-link">
+  	<a href="/archives.html">Archives</a>
+  </div>
+
+
+{% include footer.html %}
