@@ -1,12 +1,14 @@
 {% include header.html %}
 
+  <article>
   {% if page.linked_list_url %}
-  <h2><a href="{{ page.linked_list_url }}">{{ page.title }} &rarr;</a></h2>
+  <h1><a href="{{ page.linked_list_url }}">{{ page.title }} &rarr;</a></h1>
   {% else %}
-  <h2> {{ page.title }} </h2>
+  <h1> {{ page.title }} </h1>
   {% endif %}
   <p class="date">{{ page.date | date_to_long_string }}</p>
-  {{ content }}
+{{ content }}
+  </article>
   <p class="follow"><a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }} - http://colbyaley.com{{ page.url }}" data-via="ColbyAley">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
     <div id="disqus_thread"></div>

@@ -10,7 +10,7 @@ body {
 	max-width: 700px;
 	padding: 10px;
 	margin: 0 auto;
-	line-height:1.5;
+	line-height: 1.5;
 	color: #505050;
   -webkit-font-smoothing: subpixel-antialiased;
   text-rendering: optimizeLegibility;
@@ -38,6 +38,12 @@ ol li {
   padding-top: 5px;
 }
 
+hr {
+	border: 0;
+  height: 0;
+  border-top: 1px solid #7d7d7d;
+  border-bottom: 1px solid #7d7d7d;
+}
 
 a { color: #114b84; text-decoration: none; }
 
@@ -50,7 +56,7 @@ a:hover { color: #7d7d7d; }
 	margin-top: .50em;
 }
 
-p.date { margin-top: -23px; font-size: 16px; font-style: italic; }
+p.date { margin-top: -20px; font-size: 16px; font-style: italic; }
 
 /* Header */
 #header { text-align: center; }
