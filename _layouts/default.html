@@ -3,8 +3,8 @@
   <section>
     {% for post in site.posts limit: 5 %}
       <article>
-          <h1><a href="{{ post.url }}" id="posttitle" rel="bookmark">{{ post.title }}</a></h1>
-          <p class="date">{{ post.date | date_to_long_string }}</p>
+          <h1><a href="{{ post.url }}" class="posttitle" rel="bookmark">{{ post.title }}</a></h1>
+          <p class="date">Posted {{ post.date | date_to_long_string }}</p>
           <div class="post">
             {{ post.content }}
           </div>

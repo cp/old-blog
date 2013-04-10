@@ -6,21 +6,9 @@
   {% else %}
   <h1> {{ page.title }} </h1>
   {% endif %}
-  <p class="date">{{ page.date | date_to_long_string }}</p>
+  <p class="date">Posted {{ page.date | date_to_long_string }}</p>
 {{ content }}
   </article>
-  <p class="follow"><a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }} - http://colbyaley.com{{ page.url }}" data-via="ColbyAley">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
-        var disqus_shortname = 'colbyaley'; // required: replace example with your forum shortname
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-
+  <p id="follow-text">You should <a href="https://twitter.com/ColbyAley" class="twitter-follow-button" data-show-count="false">Follow @ColbyAley</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> on Twitter and <a href="https://twitter.com/share" class="twitter-share-button" data-via="ColbyAley" data-count="none">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> this post.</p>
 {% include footer.html %}
