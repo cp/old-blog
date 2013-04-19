@@ -20,7 +20,7 @@ I'm also a Business Analyst intern at [Launchside](http://launchside.com), a loc
 
 ###About this blog
 
-This blog is powered by [Jekyll](https://github.com/mojombo/jekyll) and hosted on a [Linode](http://linode.com). I have not published the code behind this website just yet, but plan to in the future. In the meantime, feel free to contact me if you need help setting up your own Jekyll blog.
+This blog is powered by [Jekyll](https://github.com/mojombo/jekyll) and hosted on a [Linode](http://linode.com). The source code is [on Github](https://github.com/ColbyAley/ColbyAley.com). Feel free to contact me if you need help setting up your own Jekyll blog.
 
 I have used [Wordpress](http://wordpress.org) for years, but recently switched to Jekyll because of speed and simplicity.
 

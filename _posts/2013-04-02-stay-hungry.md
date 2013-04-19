@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quote Analysis: "Stay Hungry, Stay Foolish"'
-published: true
+published: false
 ---
 
 ##"Stay hungry, stay foolish" -Steve Jobs
