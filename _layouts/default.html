@@ -1,7 +1,7 @@
 {% include header.html %}
 
   <section>
-    {% for post in site.posts limit: 5 %}
+    {% for post in site.posts limit: 3 %}
       <article>
           <h1><a href="{{ post.url }}" class="posttitle" rel="bookmark">{{ post.title }}</a></h1>
           <p class="date">Posted {{ post.date | date_to_long_string }}</p>
