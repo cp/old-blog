@@ -6,7 +6,7 @@
 /* Basics */
 body {
 	font-family: 'bitter', helvetica;
-	font-size: 13pt;
+	font-size: 14pt;
 	max-width: 700px;
 	padding: 10px;
 	padding-top: 0px;
@@ -54,12 +54,12 @@ a:hover { color: #7d7d7d; }
 	text-align: center;
 	font-size: 1.75em;
 	color: #d7d7d7;
-	margin-top: .50em;
 }
 
 #follow-text {
 	border: 2px solid #d4d4d4;
 	padding: 5px;
+	text-align: center;
 	background: #f9f9f9;
 	margin-bottom: -20px;
 }
@@ -79,19 +79,21 @@ p.date { margin-top: -25px; font-size: 16px; font-style: italic; color:#909090; 
 	max-width: 588px;
 }
 
-#header h2 { font-size: 29; padding-left: 100px; padding-top: 10px; }
-#header p { padding-left: 100px; margin-top: -10px; }
+#header p { text-align: center; }
 
 #header img {
-	float: left;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 	-webkit-border-radius: 190px;
 	-moz-border-radius: 190px;
 	border-radius: 190px;
 	width: 80px;
 	height: 80px;
+	margin-top: 15px;
 }
 
-#bar-top { background-color: #7d7d7d; height: 5px; margin-bottom: 10px; margin-top: 30px;}
+#bar-top { background-color: #7d7d7d; height: 5px; margin-bottom: 10px; margin-top: 15px;}
 
 /* Footer */
 #footer { text-align: center; }
@@ -99,10 +101,12 @@ p.date { margin-top: -25px; font-size: 16px; font-style: italic; color:#909090; 
 
 /* Loop */
 #archive-link { text-align: center; }
+#preface { font-style: italic; text-align: center; color: #909090;}
 
 /* Individual Pages */
 h2.page-title { font-size: 23pt; }
 p.follow { font-style: italic; }
+#post-title { text-align: center;}
 
 /* Archives */
 #extra { font-style: italic; }

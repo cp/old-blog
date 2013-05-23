@@ -1,15 +1,19 @@
 {% include header.html %}
 
+	<div id="description">
+		<p style="text-align:center;"><b>Hi, I'm Colby.</b> I'm a teenage developer & entrepreneur from Portland, Oregon. I write my thoughts surrounding life, programming, and business here. Read more about me <a href="about.html">here</a>.</p>
+	</div>
+	<div id="bar-top"></div>
+	
+	<p id="preface">Recent blog posts:</p>
   <section>
-    {% for post in site.posts limit: 3 %}
+    {% for post in site.posts limit: 8 %}
       <article>
-          <h1><a href="{{ post.url }}" class="posttitle" rel="bookmark">{{ post.title }}</a></h1>
-          <p class="date">Posted {{ post.date | date_to_long_string }}</p>
-          <div class="post">
-            {{ post.content }}
-          </div>
+      		<div id="post-title">
+	          <h1><a href="{{ post.url }}" class="posttitle" rel="bookmark">{{ post.title }}</a></h1>
+	          <p class="date">{{ post.date | date_to_long_string }}</p>
+      		</div>
       </article>
-      <div class="thingy">...</div>
     {% endfor %}
   </section>
 
