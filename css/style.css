@@ -56,6 +56,17 @@ a:hover { color: #7d7d7d; }
 	color: #d7d7d7;
 }
 
+code {
+	background-color: #f9f9f9;
+	border: 1px solid #d4d4d4;
+	color: #444;
+	font-family: Monaco, Courier, monospace;
+	font-size: 13px;
+	margin: 0 0 1.5em;
+	overflow: auto;
+	padding: 0.5em;
+}
+
 #follow-text {
 	border: 2px solid #d4d4d4;
 	padding: 5px;
