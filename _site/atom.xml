@@ -4,7 +4,7 @@
  <title>Colby Aley</title>
  <link href="http://colbyaley.com/atom.xml" rel="self"/>
  <link href="http://colbyaley.com/"/>
- <updated>2013-06-28T11:55:25-07:00</updated>
+ <updated>2013-08-13T08:29:26-07:00</updated>
  <id>http://colbyaley.com/</id>
  <author>
    <name>Colby Aley</name>
@@ -13,15 +13,30 @@
 
  
  <entry>
+   <title>The Thoughtful Development Environment</title>
+   <link href="http://colbyaley.com/thoughtful-dev-environment.html"/>
+   <updated>2013-08-13T08:30:00-07:00</updated>
+   <id>http://colbyaley.com/thoughtful-dev-environment</id>
+   <content type="html">&lt;p&gt;I quite &lt;a href=&quot;https://twitter.com/aley/status/358438664302379011&quot;&gt;enjoy&lt;/a&gt; setting up new development environments, installing the languages and databases I use, configuring my editors, and downloading my apps. Though I keep relatively frequent backups of my computer, I tend to never use them. Instead, when setting up a new computer I go through my mental checklist of the tools I need and how they should be configured. I evaluate the tools as I go, question their usefulness, and spend a few minutes to configure each of them properly.&lt;/p&gt;
+
+&lt;p&gt;I highly suggest other developers give this a try as well. With so many developer tools being released, it's easy to end up with a clusterf**k of tools on your machine. This is a problem, because as developers it's important we keep tabs on what we have in our toolbelt. It's important we're aware of the software we use and how it's configured. That we don't let anything slip past our eyes. Because after all, we're using this software to write better software ourselves. If you don't know how the tools you use work, it's going to shine through in the code you write.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&quot;A responsible programmer knows her tools. She will always try to learn more about them and she will replace them if other tools are invented that work better. But she doesn't change her tools for the latest fashion.&quot; - Anders Janmyr, &lt;a href=&quot;http://anders.janmyr.com/2013/04/a-responsible-programmer.html&quot;&gt;A Responsible Programmer&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;So I challenge you, next time you are in a position to set up a new development machine, don't just restore from a backup. Instead, set aside a few hours and take the time to install your tools by hand, evaluating and configuring them as you go.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Taking Risks</title>
    <link href="http://colbyaley.com/risks.html"/>
    <updated>2013-06-28T00:00:00-07:00</updated>
    <id>http://colbyaley.com/risks</id>
-   <content type="html">&lt;p&gt;Like many people interested with and involved in startups, I&#39;ve long been attracted to the idea of thinking big and taking risks. Because after all, the greatest risks tend to yield the greatest returns.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Like many people interested with and involved in startups, I've long been attracted to the idea of thinking big and taking risks. Because after all, the greatest risks tend to yield the greatest returns.&lt;/p&gt;
 
-&lt;p&gt;I&#39;ve realized though, that there&#39;s more to taking risks than simply pursuing the riskiest option when presented with a choice. I&#39;ve realized that &lt;strong&gt;you must put yourself in a position to be successful before taking a risk.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I've realized though, that there's more to taking risks than simply pursuing the riskiest option when presented with a choice. I've realized that &lt;strong&gt;you must put yourself in a position to be successful before taking a risk.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;I often tell the story of the first startup I worked on, one that failed before we even formed the company. It failed because I wasn&#39;t in any position to start a company, particularly one based on a webapp. For, I had no idea how to &lt;em&gt;actually build&lt;/em&gt; the app.&lt;/p&gt;
+&lt;p&gt;I often tell the story of the first startup I worked on, one that failed before we even formed the company. It failed because I wasn't in any position to start a company, particularly one based on a webapp. For, I had no idea how to &lt;em&gt;actually build&lt;/em&gt; the app.&lt;/p&gt;
 
 &lt;p&gt;So, sure it was a big idea, but I was in no position to be successful. Had I learned how to code before I pursued it, the chances of it succeeding would have been exponentially greater.&lt;/p&gt;
 
@@ -38,13 +53,13 @@
    <link href="http://colbyaley.com/scratching-an-itch.html"/>
    <updated>2013-05-23T00:00:00-07:00</updated>
    <id>http://colbyaley.com/scratching-an-itch</id>
-   <content type="html">&lt;p&gt;If you&#39;re a developer living in say, San Francisco, making six figures, reading this on a MacBook while sipping tea and pondering startup ideas, I have news for you. You need to throw the popular idea of &#39;scratching your own itch&#39; out window. It does not and should not apply to you.&lt;/p&gt;
+   <content type="html">&lt;p&gt;If you're a developer living in say, San Francisco, making six figures, reading this on a MacBook while sipping tea and pondering startup ideas, I have news for you. You need to throw the popular idea of 'scratching your own itch' out window. It does not and should not apply to you.&lt;/p&gt;
 
-&lt;p&gt;Now, I&#39;m not saying that the idea of scratching an itch is a flawed one. On the contrary, I believe that you &lt;em&gt;should&lt;/em&gt; make something that scratches an itch of yours, that solves a problem you personally have. That&#39;s the only way to truly make something great. If you are going to scratch an itch though, please don&#39;t scratch the same itch as every other developer. Differentiate yourself. Walk in the shoes of someone who has &lt;strong&gt;actual&lt;/strong&gt; problems that need solving. Consider spending time with people who don&#39;t have as much access to technology, what problems do they have? How can you help solve those problems?&lt;/p&gt;
+&lt;p&gt;Now, I'm not saying that the idea of scratching an itch is a flawed one. On the contrary, I believe that you &lt;em&gt;should&lt;/em&gt; make something that scratches an itch of yours, that solves a problem you personally have. That's the only way to truly make something great. If you are going to scratch an itch though, please don't scratch the same itch as every other developer. Differentiate yourself. Walk in the shoes of someone who has &lt;strong&gt;actual&lt;/strong&gt; problems that need solving. Consider spending time with people who don't have as much access to technology, what problems do they have? How can you help solve those problems?&lt;/p&gt;
 
-&lt;p&gt;Developer tools are fun, but there are tons of them. It&#39;s a completely over saturated market. Instead of wasting your time on say, another developer tool, open your eyes and make something that changes the world.&lt;/p&gt;
+&lt;p&gt;Developer tools are fun, but there are tons of them. It's a completely over saturated market. Instead of wasting your time on say, another developer tool, open your eyes and make something that changes the world.&lt;/p&gt;
 
-&lt;p&gt;This is something I&#39;ve recently been thinking about, and it&#39;s something other developers, designers, and entrepreneurs should focus on as well.&lt;/p&gt;
+&lt;p&gt;This is something I've recently been thinking about, and it's something other developers, designers, and entrepreneurs should focus on as well.&lt;/p&gt;
 </content>
  </entry>
  
@@ -53,25 +68,25 @@
    <link href="http://colbyaley.com/busy.html"/>
    <updated>2013-04-29T00:00:00-07:00</updated>
    <id>http://colbyaley.com/busy</id>
-   <content type="html">&lt;p&gt;&quot;Hey kid, shut the fuck up. You don&#39;t know me and you don&#39;t know what the hell you&#39;re talking about.&quot;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&quot;Hey kid, shut the fuck up. You don't know me and you don't know what the hell you're talking about.&quot;&lt;/p&gt;
 
-&lt;p&gt;If that&#39;s what is going through your head right now, I invite you to spend three minutes of your life reading this. I guarantee that reading this will not get in the way of your startup raising it&#39;s next funding round. It will not stop you from accomplishing your goals. And most importantly, I guarantee you that these three minutes are not what will make or break your success in life.&lt;/p&gt;
+&lt;p&gt;If that's what is going through your head right now, I invite you to spend three minutes of your life reading this. I guarantee that reading this will not get in the way of your startup raising it's next funding round. It will not stop you from accomplishing your goals. And most importantly, I guarantee you that these three minutes are not what will make or break your success in life.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;People love the idea of being busy. Why? Because it makes them feel important. It makes them feel like someone is relying on them. It makes them feel like they&#39;re part of something larger than themselves.&lt;/p&gt;
+&lt;p&gt;People love the idea of being busy. Why? Because it makes them feel important. It makes them feel like someone is relying on them. It makes them feel like they're part of something larger than themselves.&lt;/p&gt;
 
 &lt;p&gt;Though at the time they may not enjoy it, people naturally like inboxes full of other people depending on them. They like the thought of being busy, shooting emails off like mad, staying up all night coding. Just trying to accomplish their goals.&lt;/p&gt;
 
 &lt;p&gt;This occurs in different levels in almost every industry. People who think they are too busy to respond to your call. People who are too important to take a walk and talk with you.&lt;/p&gt;
 
-&lt;p&gt;This also happens because people love calculating the &lt;a href=&quot;http://en.wikipedia.org/wiki/Return_on_investment&quot;&gt;ROI&lt;/a&gt; of everything. People are naturally selfish creatures and love to ask, &quot;what&#39;s in it for me?&quot; when presented with a situation.&lt;/p&gt;
+&lt;p&gt;This also happens because people love calculating the &lt;a href=&quot;http://en.wikipedia.org/wiki/Return_on_investment&quot;&gt;ROI&lt;/a&gt; of everything. People are naturally selfish creatures and love to ask, &quot;what's in it for me?&quot; when presented with a situation.&lt;/p&gt;
 
-&lt;p&gt;Humans have a problem accepting the fact that sometimes you can&#39;t calculate ROI on everything. Some things will not make you any smarter, they will not make you any more successful in your business or personal life, they will not turn you into a millionaire, but that&#39;s okay.&lt;/p&gt;
+&lt;p&gt;Humans have a problem accepting the fact that sometimes you can't calculate ROI on everything. Some things will not make you any smarter, they will not make you any more successful in your business or personal life, they will not turn you into a millionaire, but that's okay.&lt;/p&gt;
 
-&lt;p&gt;Relax a little. Watch that TV show you&#39;ve always wanted to. Take a walk for no reason at all. Go on that roller coaster once more. Call up your 89 year old grandma on the phone. There are some things that you just have to do that may not make sense in the short term, but in the long term will make all the difference.&lt;/p&gt;
+&lt;p&gt;Relax a little. Watch that TV show you've always wanted to. Take a walk for no reason at all. Go on that roller coaster once more. Call up your 89 year old grandma on the phone. There are some things that you just have to do that may not make sense in the short term, but in the long term will make all the difference.&lt;/p&gt;
 
-&lt;p&gt;Remember: &lt;a href=&quot;http://jobs.aol.com/articles/2012/02/03/almost-everyone-on-their-death-bed-regrets-working-too-much/&quot;&gt;nobody&lt;/a&gt; ever said on their deathbed, &#39;I wish I had spent more time working&#39;.&lt;/p&gt;
+&lt;p&gt;Remember: &lt;a href=&quot;http://jobs.aol.com/articles/2012/02/03/almost-everyone-on-their-death-bed-regrets-working-too-much/&quot;&gt;nobody&lt;/a&gt; ever said on their deathbed, 'I wish I had spent more time working'.&lt;/p&gt;
 </content>
  </entry>
  
@@ -80,19 +95,19 @@
    <link href="http://colbyaley.com/watching-from-the-sidelines.html"/>
    <updated>2013-03-19T00:00:00-07:00</updated>
    <id>http://colbyaley.com/watching-from-the-sidelines</id>
-   <content type="html">&lt;p&gt;It&#39;s not rare that I stumble upon a blog post where the founder of a startup talks about their launch, how many users they signed up, and how much they learned from it. Well, I think that you can learn a lot from other people&#39;s startups too, without having to take part in them. I think the ability to learn from startups that aren&#39;t yours is very useful. Here&#39;s how I learn from products and the people behind them, all while just watching from the sidelines.&lt;/p&gt;
+   <content type="html">&lt;p&gt;It's not rare that I stumble upon a blog post where the founder of a startup talks about their launch, how many users they signed up, and how much they learned from it. Well, I think that you can learn a lot from other people's startups too, without having to take part in them. I think the ability to learn from startups that aren't yours is very useful. Here's how I learn from products and the people behind them, all while just watching from the sidelines.&lt;/p&gt;
 
-&lt;p&gt;Whenever a new social networking service emerges I usually sign up and try it out, usually to see what the hype is about and to give it a fair chance. I do this because trying out other  apps and services is a great way to learn how to create your own. It&#39;s a great chance to learn how they launched and created hype, why people are using it, how effective their signup process is, and most importantly, what aspects of the service you should or should not use in your next project.&lt;/p&gt;
+&lt;p&gt;Whenever a new social networking service emerges I usually sign up and try it out, usually to see what the hype is about and to give it a fair chance. I do this because trying out other  apps and services is a great way to learn how to create your own. It's a great chance to learn how they launched and created hype, why people are using it, how effective their signup process is, and most importantly, what aspects of the service you should or should not use in your next project.&lt;/p&gt;
 
-&lt;p&gt;There&#39;s a lot you can learn from launches, but if you actually spend some time and use the service, you end up learning a lot more. For as much as the launch exposes about the service and the people behind it, they only undercover a fraction of the methodology behind it.&lt;/p&gt;
+&lt;p&gt;There's a lot you can learn from launches, but if you actually spend some time and use the service, you end up learning a lot more. For as much as the launch exposes about the service and the people behind it, they only undercover a fraction of the methodology behind it.&lt;/p&gt;
 
-&lt;p&gt;It&#39;s important to ask questions such as why are people using it? What real problems does it solve? If there&#39;s other services already doing something like this, what makes it special?&lt;/p&gt;
+&lt;p&gt;It's important to ask questions such as why are people using it? What real problems does it solve? If there's other services already doing something like this, what makes it special?&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Let&#39;s use &lt;a href=&quot;http://foursquare.com&quot;&gt;Foursquare&lt;/a&gt; as an example. Foursquare launched four years ago, but students at my high school are just now beginning to use it. Why now? Why are they using it over Facebook&#39;s Places feature, where most students already have accounts? Thanks to the notifications I receive whenever a Facebook friend of mine signs up for Foursquare, I have been able to see exactly how the service is spreading throughout my school. First it was one group of friends, then it spread to another. After becoming Foursquare friends with a few of these people, I was interested to see that many of their checkins have photos attached. From what I&#39;ve seen, they take many more photos than my original Foursquare friends. Why? Facebook already allows you to attach photos to Places checkins. What makes Foursquare more appealing?&lt;/p&gt;
+&lt;p&gt;Let's use &lt;a href=&quot;http://foursquare.com&quot;&gt;Foursquare&lt;/a&gt; as an example. Foursquare launched four years ago, but students at my high school are just now beginning to use it. Why now? Why are they using it over Facebook's Places feature, where most students already have accounts? Thanks to the notifications I receive whenever a Facebook friend of mine signs up for Foursquare, I have been able to see exactly how the service is spreading throughout my school. First it was one group of friends, then it spread to another. After becoming Foursquare friends with a few of these people, I was interested to see that many of their checkins have photos attached. From what I've seen, they take many more photos than my original Foursquare friends. Why? Facebook already allows you to attach photos to Places checkins. What makes Foursquare more appealing?&lt;/p&gt;
 
-&lt;p&gt;How is Foursquare targeting these people? From what I can tell, they&#39;re using Facebook and Twitter, services the students are already on. Once they can get a few key people to join, the &lt;a href=&quot;http://en.wikipedia.org/wiki/Network_effect&quot;&gt;network effect&lt;/a&gt; will start doing it&#39;s thing, and more and more students will begin to sign up because their friends wanted them to.&lt;/p&gt;
+&lt;p&gt;How is Foursquare targeting these people? From what I can tell, they're using Facebook and Twitter, services the students are already on. Once they can get a few key people to join, the &lt;a href=&quot;http://en.wikipedia.org/wiki/Network_effect&quot;&gt;network effect&lt;/a&gt; will start doing it's thing, and more and more students will begin to sign up because their friends wanted them to.&lt;/p&gt;
 
 &lt;p&gt;Foursquare aimed at early adopters first, then relied on existing social networks and word of mouth to spread to the average consumer.&lt;/p&gt;
 
@@ -100,7 +115,7 @@
 
 &lt;p&gt;Foursquare is just one example. I challenge you to sit down and consider how other startups launched, and moved from the early adopter stage to the average consumer stage. What techniques did they use? How did they target the early adopters? Most importantly, how can you apply these techniques to your own startup?&lt;/p&gt;
 
-&lt;p&gt;Digging below the surface and analyzing products and their launches can be very helpful. There&#39;s a lot that you can learn without having to really do anything yourself. What kind of questions will you ponder?&lt;/p&gt;
+&lt;p&gt;Digging below the surface and analyzing products and their launches can be very helpful. There's a lot that you can learn without having to really do anything yourself. What kind of questions will you ponder?&lt;/p&gt;
 </content>
  </entry>
  
@@ -111,9 +126,9 @@
    <id>http://colbyaley.com/t-shirts</id>
    <content type="html">&lt;p&gt;I find T-Shirts to be fascinating. Give someone a free t-shirt, and unless the content is unnecessairly absurd they will probably wear it.&lt;/p&gt;
 
-&lt;p&gt;Why? My guess is that it&#39;s because T-Shirts usually cost a fairly substancial amount of money in stores, but branded T-Shirts such as ones with company logos across the front are usually free.&lt;/p&gt;
+&lt;p&gt;Why? My guess is that it's because T-Shirts usually cost a fairly substancial amount of money in stores, but branded T-Shirts such as ones with company logos across the front are usually free.&lt;/p&gt;
 
-&lt;p&gt;I&#39;ve caught myself wearing a T-Shirt before with the logo of a company I don&#39;t even care about printed across the front in large bold letters. As far as I know, I&#39;ve seen other people do it too.&lt;/p&gt;
+&lt;p&gt;I've caught myself wearing a T-Shirt before with the logo of a company I don't even care about printed across the front in large bold letters. As far as I know, I've seen other people do it too.&lt;/p&gt;
 
 &lt;p&gt;What fascinates me is that T-Shirts seem to be the only product that we will do this too. Imagine a company giving you a bumber sticker. Unless you truly loved or worked for the company, would you put it on your car? What if they gave you a free T-Shirt, what are the chances that you would wear it at least once?&lt;/p&gt;
 </content>
@@ -154,13 +169,13 @@
    <id>http://colbyaley.com/what-safety-means-for-the-future-of-computing</id>
    <content type="html">&lt;p&gt;Since the inception of the personal computer, using one has been seen as something unhealthy. Something that causes eye strain, carpal tunnel syndrome, and back pains. This has done more than cause trips to the hospital, but has given computers the negative connotations of being unnatural, unsafe, and unhealthy.&lt;/p&gt;
 
-&lt;p&gt;Computers are becoming more and more present in our every day lives, but at the same time they haven&#39;t become any safer to use. More and more jobs involve using computers on a daily basis, yet using one is often seen as unhealthy. In fact, from what I have observed people will naturally limit their computer use because they believe that using one is unnatural and wrong. With something proven to help us in so many ways, why should this still be happening?&lt;/p&gt;
+&lt;p&gt;Computers are becoming more and more present in our every day lives, but at the same time they haven't become any safer to use. More and more jobs involve using computers on a daily basis, yet using one is often seen as unhealthy. In fact, from what I have observed people will naturally limit their computer use because they believe that using one is unnatural and wrong. With something proven to help us in so many ways, why should this still be happening?&lt;/p&gt;
 
 &lt;p&gt;How can we make computers safer to use, and in turn shift in how people use them, and how they are perceived?&lt;/p&gt;
 
-&lt;p&gt;With the rising number of computers in the home, the workplace, and now in the pocket, this is extremely important. It is something worth thinking about — “What can be done to make computers safer and more natural to use?” I&#39;m not talking about &lt;a href=&quot;http://www.amazon.com/Trek-TD-01-TrekDesk-Treadmill-Desk/dp/B002IYRBI0&quot;&gt;treadmill desks&lt;/a&gt;. No, I&#39;m talking about designing computers to have less negative health effects, which will in turn fundamentally alter how people think of, and use them.&lt;/p&gt;
+&lt;p&gt;With the rising number of computers in the home, the workplace, and now in the pocket, this is extremely important. It is something worth thinking about — “What can be done to make computers safer and more natural to use?” I'm not talking about &lt;a href=&quot;http://www.amazon.com/Trek-TD-01-TrekDesk-Treadmill-Desk/dp/B002IYRBI0&quot;&gt;treadmill desks&lt;/a&gt;. No, I'm talking about designing computers to have less negative health effects, which will in turn fundamentally alter how people think of, and use them.&lt;/p&gt;
 
-&lt;p&gt;There&#39;s a huge opportunity for the first person to figure this out, and an even larger one for the first person to do it right.&lt;/p&gt;
+&lt;p&gt;There's a huge opportunity for the first person to figure this out, and an even larger one for the first person to do it right.&lt;/p&gt;
 </content>
  </entry>
  
