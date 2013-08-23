@@ -4,7 +4,7 @@ layout: page
 
 ## Hi, I'm Colby.
 
-**I'm a 16 year old student from Portland, Oregon with an interest in business, startups, and technology.**
+**I'm a 17 year old student from Portland, Oregon with an interest in business, startups, and technology.**
 
 I enjoy using computers and the internet to make things that not only people enjoy using, but that solve problems.
 
